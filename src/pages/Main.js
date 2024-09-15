@@ -34,7 +34,7 @@ export default function Main() {
           className={`${buttonBlock} absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-blue-600 text-white px-7 py-2 rounded-3xl font-semibold hover:bg-blue-500 duration-500`}
           onClick={handlePlay}
         >
-          Play Audio
+          Now Click Here 😁💖
         </button>
         <audio ref={audioRef} className="hidden" controls>
           <source src={audio} type="audio/mpeg" />
