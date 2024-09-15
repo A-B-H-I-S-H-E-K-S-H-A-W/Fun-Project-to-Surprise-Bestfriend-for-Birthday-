@@ -26,6 +26,6 @@ This project creates a personalized birthday surprise experience for a loved one
 
 Feel free to fork this repository and make your own modifications or improvements!
 
-## License
+## Ownership
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is owned by [eztodebug.in](https://eztodebug.in).
