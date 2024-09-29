@@ -45,7 +45,7 @@ export default function Main() {
           <div className="text-center max-w-[500px] flex flex-col gap-5">
             <p className="text-white text-3xl font-bold">Surprise! 🎉</p>
             <p className="text-white text-xl">
-              Happy Birthday, Meow! 🎉 Many many many happy returns of the day
+              Happy Birthday Dear! 🎉 Many many many happy returns of the day
               dear, Wishing you a day filled with love, laughter, and all the
               things that bring you joy. Every little thing you do – your laugh,
               your smile, the way you light up a room, is the joyable moment I
@@ -53,7 +53,7 @@ export default function Main() {
               the joy in the world, not just today, but every single day. I
               can't wait to create even more beautiful memories together. Here's
               to you, my love, my best friend. Happy Birthday! Once Again
-              Meow😊🎉🎂💖
+              Dear😊🎉🎂💖
             </p>
           </div>
         </div>
