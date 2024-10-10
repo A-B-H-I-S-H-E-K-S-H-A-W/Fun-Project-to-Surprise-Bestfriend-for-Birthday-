@@ -52,7 +52,7 @@ export default function Main() {
               have exprienced. You deserve nothing but happiness, love, and all
               the joy in the world, not just today, but every single day. I
               can't wait to create even more beautiful memories together. Here's
-              to you, my love, my best friend. Happy Birthday! Once Again
+              to you, my best friend. Happy Birthday! Once Again
               Dear😊🎉🎂💖
             </p>
           </div>
